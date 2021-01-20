@@ -250,7 +250,7 @@ function grade(num){
   } else {
     return 'you got a F';
   }
-  }
+  } 
   
   
   
