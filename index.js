@@ -136,7 +136,7 @@ hungryDog(0.168)
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
-// Rock, Paper, Scissors - Let's play against the computer!
+// Rock, Paper, Scissors - Let's play against the computer! 
 /*
 Create a global variable that randomly generates the computer's choice
 Use Math.random to determine the computers choice (Math.random gives a random number between 0 and 1)
